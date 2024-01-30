@@ -1,5 +1,7 @@
 ﻿# s3-deployments
 ---
+### Requirements:
+- [Install aws cli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 ### Windows Example:
 - $env:AWS_ACCESS_KEY_ID="your value"
 - $env:AWS_SECRET_ACCESS_KEY ="your value"
